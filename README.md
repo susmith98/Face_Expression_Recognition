@@ -1,5 +1,5 @@
 # Face_Expression_Recognition
-Face Expression Recognition Model built using Feature extraction from VGG pretrained model
+Face Expression Recognition Model built using Transfer Learning(Feature extraction) from VGG pretrained model
 
 Overview of What's happening in Edetector.py
 
