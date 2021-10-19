@@ -1,7 +1,7 @@
 # Face_Expression_Recognition
 Face Expression Recognition Model built using Transfer Learning(Feature extraction) from VGG pretrained model
 
-Overview of What's happening in Edetector.py
+Overview of What's happening in Edetector.py script
 
 1) Loading a pretrained VGG model from keras.applications
 2) Creating a VGGtop Custom Model on top of VGG Model
